@@ -1,1 +1,4 @@
 *.docx
+*.pdf
+*.tmp
+~WRL*.tmp
